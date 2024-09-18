@@ -16,8 +16,8 @@
 
 ## About Me
 I am a robotics engineer from India.
-- Incoming MS in Robotics student at Carnegie Mellon Univeristy (CMU).
-- Currently working as Project Scientist at the Intelligent Robotics Teammate Lab
+- MS in Robotics student at Carnegie Mellon Univeristy (CMU).
+- Former Project Scientist at the Intelligent Robotics Teammate Lab
 at the Indian Institute of Technology Delhi (IITD). 
 - Completed bachelors in Electronics and Communication Engineering from the
 National Institute of Technology Calicut (NITC).
